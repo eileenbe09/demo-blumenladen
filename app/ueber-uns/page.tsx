@@ -68,7 +68,7 @@ export default function UeberUnsPage() {
 
   <div className="relative h-[280px] overflow-hidden rounded-3xl md:h-[380px]">
     <Image
-      src="/blumenladen.png"
+      src="/Blumenladen.png"
       alt="Blumenladen Blumenzauber"
       fill
       className="object-cover"
