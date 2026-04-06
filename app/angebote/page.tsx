@@ -43,7 +43,7 @@ export default function AngebotePage() {
     <main className="relative min-h-screen overflow-hidden bg-[#ece3db] text-[#5b463e]">
         <div
   className="absolute inset-0 bg-cover bg-center"
-  style={{ backgroundImage: "url('/blumenstrauß.png')" }}
+  style={{ backgroundImage: "url('/Blumenstrauss.png')" }}
 />
 
 <div className="absolute inset-0 bg-[rgba(255,248,242,0.68)]" />

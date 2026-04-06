@@ -3,16 +3,16 @@
 import Link from "next/link";
 
 export default function BlumenladenHomepage() { const seasonalFlowers =
-   [ { name: "Tulpen", image: "/tulpen1.png" },
-   { name: "Magnolien", image: "/magnolien 1.png" },
-    { name: "Pfingstrosen", image: "/pfingstrosen1.png" },
-     { name: "Ranunkeln", image: "/ranunkeln1.png" },
-      { name: "Bartnelken", image: "/bartnelken1.png" },
-      { name: "Rosen", image: "/rosen1.png" }, ];
+   [ { name: "Tulpen", image: "/Tulpen1.png" },
+   { name: "Magnolien", image: "/Magnolien 1.png" },
+    { name: "Pfingstrosen", image: "/Pfingstrosen1.png" },
+     { name: "Ranunkeln", image: "/Ranunkeln1.png" },
+      { name: "Bartnelken", image: "/Bartnelken1.png" },
+      { name: "Rosen", image: "/Rosen1.png" }, ];
 
 return ( <main className="relative min-h-screen overflow-hidden bg-[#ece3db] text-white"> 
 <div className="absolute inset-0 bg-cover bg-center" 
-style={{ backgroundImage: "url('/blumenstrauss.png')" }} />
+style={{ backgroundImage: "url('/Blumenstrauss.png')" }} />
 
 <div className="absolute inset-0 bg-[rgba(255,248,242,0.68)]" />
   <div className="absolute inset-0 backdrop-blur-[1px]" />
