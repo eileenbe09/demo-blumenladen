@@ -12,7 +12,7 @@ export default function BlumenladenHomepage() { const seasonalFlowers =
 
 return ( <main className="relative min-h-screen overflow-hidden bg-[#ece3db] text-white"> 
 <div className="absolute inset-0 bg-cover bg-center" 
-style={{ backgroundImage: "url('/blumenstrauß.png')" }} />
+style={{ backgroundImage: "url('/blumenstrauss.png')" }} />
 
 <div className="absolute inset-0 bg-[rgba(255,248,242,0.68)]" />
   <div className="absolute inset-0 backdrop-blur-[1px]" />
