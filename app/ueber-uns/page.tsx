@@ -16,9 +16,10 @@ export default function UeberUnsPage() {
 <div className="absolute inset-0 backdrop-blur-[1px]" />
       <div className="relative z-10 mx-auto max-w-7xl px-6 py-8 md:px-10 lg:px-16">
         <header className="flex flex-col gap-4 rounded-2xl border border-[#eadfd6] bg-[#fffaf4] px-6 py-4 shadow-md md:flex-row md:items-center md:justify-between">
-          <h1 className="font-serif text-4xl italic tracking-wide text-[#5f473f] md:text-3xl">
+           <h1 className="font-serif text-3xl italic tracking-wide text-[#5f473f]">
             Blumenzauber
           </h1>
+
 
           <nav>
             <ul className="flex flex-wrap gap-6 text-base font-medium text-[#5f473f] md:gap-10 md:text-lg">
